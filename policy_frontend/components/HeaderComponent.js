@@ -11,7 +11,7 @@ const HeaderComponent = () => {
                     <Link to="/" className="navbar-brand d-flex align-items-center">
                         <img 
                             src={zurichLogo} 
-                            alt="Zurich Insurance Logo" 
+                            alt="Zurich Insurance Logo"
                             style={{ width: "220px", height: "40px", marginRight: "10px" }} 
                         />
                         
